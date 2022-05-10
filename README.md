@@ -4,7 +4,7 @@ Hi 👋 My name is Josan Victor
 QA Engineer
 -----------
 
-I have been studying programming for 4 years, after I entered college to study Web Application Administration. I started on my own with HTML and CSS, then I learned several OOP-oriented programming languages like Java and C++, also taught PHP, JavaScript. Although I studied to be a programmer, my interest turned out to be application testing. My goal in the future is to master automated testing and become an automatic tester.
+I have been studying programming for 4 years, after I entered college to study Web Application Administration. I started on my own with HTML and CSS, then I learned several OOP-oriented programming languages like Java and C++, also learned PHP, JavaScript. Although I studied to be a programmer, my interest turned out to be application testing. My goal in the future is to master automated testing and become an automatic tester.
 
 * 🌍  I'm based in Chisinau. Moldova
 * ✉️  You can contact me at [viktor.josan2002@gmail.com](mailto:viktor.josan2002@gmail.com)
