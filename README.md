@@ -8,7 +8,7 @@ I have been studying programming for 4 years, after I entered college to study W
 
 * 🌍  I'm based in Chisinau. Moldova
 * ✉️  You can contact me at [viktor.josan2002@gmail.com](mailto:viktor.josan2002@gmail.com)
-* 🚀  I'm currently working on [Allied Testing](http://https://www.alliedtesting.com/?explore)
+* 🚀  I'm currently working at [Allied Testing](http://https://www.alliedtesting.com/?explore)
 * 🧠  I'm learning automatic testing
 * ⚡  I like to work independently and in a team. I want to do something useful all the time
 
